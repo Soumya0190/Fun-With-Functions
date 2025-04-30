@@ -69,15 +69,7 @@ Here's a quick review of each function based on the assignment specs:
   return phrase2 == phrase2[::-1]
   ```
 
----
 
-### ✅ Submission & Naming
-- ✔ Functions are named and structured as requested.
-- ⚠ Make sure your script is saved and zipped correctly using the format `Lab1_YOURID.py`.
-
----
-
-Sure! Here's how you can explain the project using the **STAR** format (Situation, Task, Action, Result):
 
 ---
 
